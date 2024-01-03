@@ -5,7 +5,7 @@
     "build": "vitepress build",
     "serve": "vitepress serve",
     "predeploy": "pnpm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d .vitepress/dist"
   },
   "license": "MIT",
   "dependencies": {

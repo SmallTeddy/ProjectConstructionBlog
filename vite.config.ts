@@ -18,6 +18,7 @@ import type { UserConfigExport } from 'vite'
 
 export default (): UserConfigExport => {
   return {
+    base: '/',
     server: {
       port: 1216
     },
