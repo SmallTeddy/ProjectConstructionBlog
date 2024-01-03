@@ -1,6 +1,4 @@
-<script lang="ts" setup>
-  // code……
-</script>
+<script></script>
 
 <template>
   <f-main>
@@ -51,3 +49,4 @@
   line-height: 40px;
 }
 </style>
+

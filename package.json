@@ -9,9 +9,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@rollup/plugin-alias": "^5.1.0",
-    "@types/node": "^20.10.6",
-    "@vitejs/plugin-vue": "^5.0.2",
     "gh-pages": "^6.1.1",
     "markdown-it": "^13.0.1",
     "vitepress": "1.0.0-rc.34",
