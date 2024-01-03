@@ -9,6 +9,7 @@ import type MarkdownIt from 'markdown-it'
  * @see app-configs https://vitepress.vuejs.org/config/app-configs.html
  */
 export default {
+  base: '/ProjectConstructionBlog/',
   title: '前端新手项目指北',
   /**
    * 是否显示最后更新时间
