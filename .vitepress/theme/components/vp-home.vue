@@ -7,7 +7,7 @@
     </f-text>
 
     <f-text align="center" style="margin-top: 20px;">
-      <f-button round type="primary" class="start" href="/docs/01.html">
+      <f-button round type="primary" class="start" href="/ProjectConstructionBlog/docs/01.html">
         📔 查看文档
       </f-button>
       <f-button round href="https://github.com/SmallTeddy/ProjectConstructionBlog.git" target="_blank" style="margin-left: 20px;">
