@@ -10,7 +10,7 @@
       <f-button round type="primary" class="start" href="/ProjectConstructionBlog/docs/01.html">
         📔 查看文档
       </f-button>
-      <f-button round href="https://github.com/SmallTeddy/ProjectConstructionBlog.git" target="_blank" style="margin-left: 20px;">
+      <f-button round href="https://github.com/SmallTeddy/ProjectConstructionHub" target="_blank" style="margin-left: 20px;">
         🧸 Github
       </f-button>
     </f-text>
