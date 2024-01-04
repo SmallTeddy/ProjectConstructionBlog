@@ -10,5 +10,7 @@ export const sidebar = {
     { text: '第八章 Layout组件', link: '/docs/08' },
     { text: '第九章 登录开发', link: '/docs/09' },
     { text: '第十章 请求配置', link: '/docs/10' },
+    { text: '第十一章 基础界面开发', link: '/docs/11' },
+    { text: '第十二章 常用工具函数', link: '/docs/12' }
   ]
 }
