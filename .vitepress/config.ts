@@ -43,7 +43,7 @@ export default {
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/Tyh2001/vitepress-template'
+        link: 'https://github.com/SmallTeddy/ProjectConstructionHub'
       }
     ],
     nav,
